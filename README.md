@@ -19,19 +19,23 @@
 
 - ⚡ Fun fact **I think I am Curious.**
 
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gazishawon999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gazishawon999" height="30" width="40" /></a>
-<a href="https://fb.com/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gazishawon999" height="30" width="40" /></a>
-<a href="https://instagram.com/shawon_shimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shawon_shimanto" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gazishawon999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gazishawon999" height="30" width="40" /></a>
+<a href="https://twitter.com/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gazishawon999" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gazishawon999" height="50" width="50" /></a>
+<a href="https://fb.com/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gazishawon999" height="50" width="50" /></a>
+<a href="https://instagram.com/shawon_shimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shawon_shimanto" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gazishawon999" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/gazishawon999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gazishawon999" height="50" width="50" /></a>
 </p>
 
 <br/>
 <!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"> TECHNOLOGY STACK:
+
+</br>
 
 ### Languages:
 
@@ -63,22 +67,24 @@
 
 <br/>
 
-<!--- statistics --->
+<!-- Statistics -->
 
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+## 📊 GITHUB STATISTICS & ANALYSIS :
 
-### GitHub Contributions:
+### GitHub Contributions
 
-![Snake Grid](https://github.com/gazishawon999/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/gazishawon999/contributiontput/grid.svg
 
-### GitHub Statistics:
+### GitHub Statistics
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gazishawon999&show_icons=true&theme=k&hide_border=true
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=999&layout=compact&theme=github_dark&hide_border=true
+</p>
 
-### Repository Stats & Streak:
+### Repository Stats & Streak
 
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=gazishawon999&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=gazishawon999" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-
-<br/>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=gazishawon999&limit=5&theme=github_ne_all_yearly_contributions=true&hide_border=true
+  <img src="https://streak-stats.demolab.com?user=gazishawon999&theme=github-dark_border=true
+</p>
