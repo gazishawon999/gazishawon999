@@ -69,22 +69,34 @@
 
 <!-- Statistics -->
 
-## 📊 GITHUB STATISTICS & ANALYSIS :
+## 📊 GITHUB STATISTICS & ANALYSIS
 
-### GitHub Contributions
+### 🐍 GitHub Contributions
 
-![Snake Grid](https://github.com/gazishawon999/contributiontput/grid.svg
+![GitHub Contribution Snake](https://github.com/gazishawon999/contribution-snake/blob/output/grid.svg)
 
-### GitHub Statistics
+### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gazishawon999&show_icons=true&theme=k&hide_border=true
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=999&layout=compact&theme=github_dark&hide_border=true
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false" 
+    alt="GitHub Statistics"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
+    alt="Top Languages"
+  />
 </p>
 
-### Repository Stats & Streak
+### 📦 Repository Stats & 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gazishawon999&limit=5&theme=github_ne_all_yearly_contributions=true&hide_border=true
-  <img src="https://streak-stats.demolab.com?user=gazishawon999&theme=github-dark_border=true
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=gazishawon999&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" 
+    alt="Repository Statistics"
+  />
+  <img 
+    src="https://streak-stats.demolab.com/?user=gazishawon999" 
+    alt="GitHub Streak"
+  />
 </p>
