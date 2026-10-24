@@ -1,0 +1,38 @@
+<svg width="800" height="380" viewBox="0 0 800 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .quote { font-family: "Segoe UI", "Ubuntu", sans-serif; font-style: italic; font-size: 22px; font-weight: 500; }
+        .author { font-family: "Segoe UI", "Ubuntu", sans-serif; font-size: 16px; font-weight: 600; fill: #565f89; }
+        .highlight-1 { fill: #7aa2f7; } /* Tokyonight Blue */
+        .highlight-2 { fill: #bb9af7; } /* Tokyonight Purple */
+        .highlight-3 { fill: #9ece6a; } /* Tokyonight Green */
+        .bg { fill: #1a1b26; }
+        .border { stroke: #292e42; stroke-width: 2px; }
+        .icon { font-family: serif; font-size: 80px; fill: #3b4261; opacity: 0.5; }
+    </style>
+    
+    <!-- Background and Border -->
+    <rect width="796" height="376" x="2" y="2" rx="12" class="bg border" />
+    
+    <!-- Mac OS Window Buttons -->
+    <circle cx="24" cy="24" r="6" fill="#ff5f56" />
+    <circle cx="44" cy="24" r="6" fill="#ffbd2e" />
+    <circle cx="64" cy="24" r="6" fill="#27c93f" />
+
+    <!-- Large Quote Icon at the top -->
+    <text x="400" y="100" text-anchor="middle" class="icon">❝</text>
+    
+    <!-- Custom Quote Text -->
+    <g class="quote" text-anchor="middle">
+        <text x="400" y="150" class="highlight-1">"Life gave me no source code.</text>
+        <text x="400" y="180" class="highlight-1">So I learned from every error message."</text>
+        
+        <text x="400" y="230" class="highlight-2">"Some bugs don't stop you.</text>
+        <text x="400" y="260" class="highlight-2">They teach you how to compile."</text>
+        
+        <text x="400" y="310" class="highlight-3">"And sometimes the errors</text>
+        <text x="400" y="340" class="highlight-3">are just part of the process." 💻</text>
+    </g>
+    
+    <!-- Author Signature -->
+    <text x="760" y="350" text-anchor="end" class="author">— Shawon Gazi</text>
+</svg>

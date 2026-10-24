@@ -107,21 +107,55 @@
   />
 </p>
 
-<!-- Dev Quotes -->
+<!-- This for my banner "Quotes SVG image showing codes, for future work here stored.." -->
+<!--
+<br/>
+<br/>
+
+<div align="center">
+
+<!- Custom Tokyonight Quote SVG ->
+<img src="./Banner/quote.svg" alt="Shawon's Developer Quote" width="100%"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
+&nbsp; <b><i>Let's connect and build something amazing!</i></b> &nbsp;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
+
+</div>
 
 <br/>
 
+<!- Fancy Waving Footer ->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:050a0e&height=130&section=footer&animation=fadeIn" width="100%"/>
+-->
+
+<!-- Dev Quotes -->
+<br/>
+<br/>
+
+<div align="center">
+
+<!-- Daily Auto-Updating Programming Quote API -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Programming Quote" width="100%"/>
+
+<br/><br/>
+
 <p align="center">
-  <i>"Life gave me no source code.<br/>
-  So I learned from every error message.<br/>
-  <br/>
-  Some bugs don't stop you.<br/>
-  They teach you how to compile.<br/>
-  <br/>
-  And sometimes<br/>
-  the errors<br/>
-  are just part<br/>
-  of the process." 💻</i>
+  <i>"In a world full of GUIs, be a CLI."</i> 🖤<br><br>
+  Always learning &nbsp;·&nbsp; Always shipping &nbsp;·&nbsp; Always automating
 </p>
 
 <br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
+&nbsp; <b><i>Let's connect and build something amazing!</i></b> &nbsp;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
+
+</div>
+
+<br/>
+
+<!-- Fancy Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:050a0e&height=130&section=footer&animation=fadeIn" width="100%"/>
