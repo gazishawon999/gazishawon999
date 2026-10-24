@@ -106,3 +106,22 @@
     alt="GitHub Streak"
   />
 </p>
+
+<!-- Dev Quotes -->
+
+<br/>
+
+<p align="center">
+  <i>"Life gave me no source code.<br/>
+  So I learned from every error message.<br/>
+  <br/>
+  Some bugs don't stop you.<br/>
+  They teach you how to compile.<br/>
+  <br/>
+  And sometimes<br/>
+  the errors<br/>
+  are just part<br/>
+  of the process." 💻</i>
+</p>
+
+<br/>
