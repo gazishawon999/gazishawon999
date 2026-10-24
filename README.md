@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/gazishawon999)**
 
-- 💬 Ask me about **C, Java , Algorithm, JavaScript, TypeScript, Database(MySQL)**
+- 💬 Ask me about **C, Java , Algorithm, JavaScript, TypeScript, Reactjs, Nextjs, Database(MySQL)**
 
 - 📩 Email Me **gazishawon999@gmail.com**
 
@@ -73,7 +73,9 @@
 
 ### 🐍 GitHub Contributions
 
-![GitHub Contribution Snake](https://github.com/gazishawon999/contribution-snake/blob/output/grid.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gazishawon999/contribution-snake/output/grid.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
 
 ### 📈 GitHub Statistics
 
