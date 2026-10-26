@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SHAWON GAZI</h1>
 <h3 align="center">Full Stack Web Developer (Learning)</h3>
 
-<!--- typo --->
+<!--- typo section --->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=0CED18&center=true&vCenter=true&width=500&lines=CS+Student+@Eastern+University;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Exploring+Something+New" alt="Typing SVG" />
@@ -19,6 +19,8 @@
 
 <br/>
 
+<!-- My Social Media Accounts Section -->
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://fb.com/gazishawon999" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" title="Facebook - Shawon Gazi" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +33,7 @@
 
 <br/>
 
-<!--- technology --->
+<!--- technology section--->
 <h2 align="center"><img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35" align="center"> TECHNOLOGY STACK:</h2>
 
 <br/>
@@ -62,7 +64,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40" />
 </p>
 
-<h3 align="center">Database & Model:</h3>
+<h3 align="center">Database & Models:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
