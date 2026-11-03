@@ -19,7 +19,7 @@
 
 <br/>
 
-<!-- My Social Media Accounts Section -->
+<!-- My Social Media Accounts Section Below -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
