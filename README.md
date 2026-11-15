@@ -1,7 +1,19 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./scanner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./scanner-light.svg">
+    <img src="./scanner-light.svg" width="100%" alt="Scanning Animation" />
+  </picture>
+</p>
+
 <img src="./Banner/banner.jpg" alt="Hello world">
 
 <h1 align="center">Hi 👋, I'm SHAWON GAZI</h1>
 <h3 align="center">Full Stack Web Developer (Learning)</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gazishawon999&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <!--- typo section --->
 <div align="center">
@@ -112,47 +124,59 @@
 
 ### 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false">
+    <img src="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Statistics" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishawon999&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </picture>
+</div>
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gazishawon999&theme=swift&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- This for my banner "Quotes SVG image showing codes, for future work here stored.." -->
-<!--
-<br/>
-<br/>
-
 <div align="center">
-
-<!- Custom Tokyonight Quote SVG ->
-<img src="./Banner/quote.svg" alt="Shawon's Developer Quote" width="100%"/>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
-&nbsp; <b><i>Let's connect and build something amazing!</i></b> &nbsp;
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazishawon999&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazishawon999&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gazishawon999&theme=default&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
-<br/>
+## 📈 GitHub Readme Activity Graph
 
-<!- Fancy Waving Footer ->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:050a0e&height=130&section=footer&animation=fadeIn" width="100%"/>
--->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gazishawon999&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gazishawon999&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gazishawon999&theme=default" alt="Profile Summary" />
+  </picture>
+</div>
+
+<!-- Top Languages  -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazishawon999&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazishawon999&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazishawon999&theme=default" alt="Top Languages" />
+  </picture>
+</div>
 
 <!-- Dev Quotes -->
 <br/>
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Programming Quote" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random Programming Quote" width="100%"/>
+  </picture>
   
   <br/><br/>
   
