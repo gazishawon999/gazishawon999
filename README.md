@@ -9,6 +9,7 @@
 <img src="./Banner/banner.jpg" alt="Hello world">
 
 <h1 align="center">Hi 👋, I'm SHAWON GAZI</h1>
+
 <h3 align="center">Full Stack Web Developer (Learning)</h3>
 
 <p align="center">
@@ -26,11 +27,12 @@
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/gazishawon999)**
 - 💬 Ask me about **C, Java, Algorithm, JavaScript, TypeScript, React.js, Next.js, Database (MySQL, MongoDB)**
 - 📩 Email Me **gazishawon999@gmail.com**
-- 🌐 Explore My [Resume](https://docs.google.com/document/d/1A2tMn867Nf7uZHnKlgPXY9vFIP4pyWK3/edit?usp=drive_link&ouid=113732708346857589964&rtpof=true&sd=true)
+- 🌐 Explore My [Resume](https://drive.google.com/file/d/118NdPHholDLXVwkTJ1uunpJEw1Q7ajU6/view?usp=sharing)
 - ⚡ Fun fact: **I think I am Curious.**
 
 <br/>
-
+<!-- Custom Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 <!-- My Social Media Accounts Section Below -->
 
 <h3 align="center">Connect with me:</h3>
@@ -43,7 +45,21 @@
   <a href="https://www.leetcode.com/gazishawon999" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" title="LeetCode - gazishawon999" height="50" width="50" /></a>
 </p>
 
-<br/>
+<!-- Portfolio Preview Section -->
+<h3 align="center">🌐 Check Out My Portfolio</h3>
+<p align="center">
+  <a href="https://gazishawon999.github.io/Shawon-Portfolio/" target="_blank">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Fgazishawon999.github.io%2FShawon-Portfolio%2F&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Preview" width="80%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://gazishawon999.github.io/Shawon-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio" />
+  </a>
+</p>
+
+<!-- Custom Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!--- technology section--->
 <h2 align="center"><img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35" align="center"> TECHNOLOGY STACK:</h2>
@@ -89,8 +105,7 @@
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" title="Vercel" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" title="Netlify" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='50' height='50'><path fill='%233B82F6' d='M0 3.39v17.22h5.783V15.06h6.434V8.939H5.783V3.39ZM12.217 8.94h5.638v6.122h-5.638v5.548H24V3.391H12.217Z'/></svg>" alt="Better Auth" title="Better Auth" width="50" height="50" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/better-auth/default.svg" alt="Better Auth" title="Better Auth" width="50" height="50" />
 </p>
 
 <h3 align="center">Design & Graphics:</h3>
@@ -107,10 +122,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- AutoCAD Icon Updated Here -->
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/autocad/default.svg" alt="AutoCAD" title="AutoCAD" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" width="50" height="50" />
 </p>
+
+<!-- Custom Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <br/>
 
@@ -128,48 +145,48 @@
   </picture>
 </p>
 
-### 📈 GitHub Statistics
+### 📈 GitHub Statistics & Languages
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false&v=2">
+    <img src="https://github-readme-stats.vercel.app/api?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false&v=2" alt="GitHub Statistics" width="48%" />
   </picture>
   &nbsp;&nbsp;
+  <!-- Premium Language Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishawon999&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazishawon999&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gazishawon999&theme=tokyonight&hide_title=false&hide_border=true&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gazishawon999&theme=default&hide_title=false&hide_border=true&v=2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gazishawon999&theme=default&hide_title=false&hide_border=true&v=2" alt="Most Commit Language" width="48%" />
   </picture>
 </div>
 
-### 🔥 GitHub Streak
+### ⏱️ Productivity & Streak
 
 <div align="center">
+  <!-- Premium Productive Time Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazishawon999&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazishawon999&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gazishawon999&theme=default&hide_border=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gazishawon999&theme=tokyonight&utcOffset=6&hide_border=true&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gazishawon999&theme=default&utcOffset=6&hide_border=true&v=2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gazishawon999&theme=default&utcOffset=6&hide_border=true&v=2" alt="Productive Time" width="48%" />
+  </picture>
+  &nbsp;&nbsp;
+  <!-- Fixed Streak Card with v=2 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazishawon999&theme=tokyonight&hide_border=true&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gazishawon999&theme=default&hide_border=true&v=2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gazishawon999&theme=default&hide_border=true&v=2" alt="GitHub Streak" width="48%" />
   </picture>
 </div>
 
-## 📈 GitHub Readme Activity Graph
-
+<!-- Top Languages -->
+<h3 align="center">📊 Activity Graph</h3>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gazishawon999&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gazishawon999&theme=default">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gazishawon999&theme=default" alt="Profile Summary" />
-  </picture>
-</div>
-
-<!-- Top Languages  -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazishawon999&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazishawon999&theme=default">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gazishawon999&theme=default" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gazishawon999&theme=tokyonight&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gazishawon999&theme=default&v=2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gazishawon999&theme=default&v=2" alt="Profile Summary" width="100%" />
   </picture>
 </div>
 
@@ -179,11 +196,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random Programming Quote" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&v=2">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&v=2" alt="Random Programming Quote" width="100%"/>
   </picture>
-  
+  <!-- Custom Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
   <br/><br/>
   
   <p align="center">
@@ -200,4 +218,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:050a0e&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B192C,50:1A365D,100:000000&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
