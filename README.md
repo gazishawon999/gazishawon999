@@ -27,7 +27,7 @@
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/gazishawon999)**
 - 💬 Ask me about **C, Java, Algorithm, JavaScript, TypeScript, React.js, Next.js, Database (MySQL, MongoDB)**
 - 📩 Email Me **gazishawon999@gmail.com**
-- 🌐 Explore My [Resume](https://drive.google.com/file/d/118NdPHholDLXVwkTJ1uunpJEw1Q7ajU6/view?usp=sharing)
+- 🌐 Explore My [Resume](https://drive.google.com/file/d/1KpXmDrswf2DA-gORea3o_dnxK2WkPeib/view?usp=sharing)
 - ⚡ Fun fact: **I think I am Curious.**
 
 <br/>
