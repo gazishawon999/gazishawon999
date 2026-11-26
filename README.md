@@ -219,3 +219,5 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B192C,50:1A365D,100:000000&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<!-- End Here -->
